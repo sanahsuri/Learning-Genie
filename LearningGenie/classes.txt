@@ -1,0 +1,31 @@
+#Is it Science Class?
+#Is it a class with hands on experiment?
+#Is it a class dealing with life?
+#Is it a class dealing with all sorts of life?
+Biology
+Psychology
+#Is it a class due more with chemicals?
+Chemistry
+Physics
+#Is it class deal with nature?
+#Does it analyze the stuff out of earth?
+Astronomy
+Geography
+#Does it play with only numbers?
+Math
+CS
+#Is it a humanity?
+#Is it a class about performance?
+#Is it about music
+#Is it more about body reacting to the music
+dance
+music
+theater
+#Is it focus on language
+#Does it focus on a specific language
+Language
+Linguistic
+#Is this more about theory
+Philosophy
+Classics
+Social Science
